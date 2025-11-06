@@ -17,7 +17,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_APP_DESCRIPTION": "Orderly Trading Application",
   "VITE_HAS_PRIMARY_LOGO": "true",
   "VITE_HAS_SECONDARY_LOGO": "true",
-  "VITE_ENABLED_MENUS": "Trading,Markets,Swap,Leaderboard,Portfolio,Rewards,Vaults",
+  "VITE_ENABLED_MENUS": "Trading,Markets,Portfolio,Leaderboard,Rewards,Vaults",
   "VITE_CUSTOM_MENUS": "WSB Live, https://wsblive.com/",
   "VITE_ENABLE_CAMPAIGNS": "false",
   "VITE_TELEGRAM_URL": "",
