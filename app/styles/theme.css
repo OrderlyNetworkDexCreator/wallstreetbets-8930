@@ -97,53 +97,7 @@
 
 html, body {
   font-family: 'Satoshi', 'Inter Tight', 'Helvetica Neue', Arial, sans-serif !important;
-  font-weight: 400 !important;
-  font-size: 16px !important;
-  letter-spacing: -0.01em;
-  color: rgb(var(--oui-color-base-foreground));
-  background-color: rgb(var(--oui-color-base-10));
-}
-
-/* Headings, nav, and buttons use uppercase */
-h1, h2, h3, h4, h5, h6,
-nav a,
-button,
-.title,
-.header-title {
   font-weight: 700 !important;
-  text-transform: uppercase !important;
+  font-size: 16px !important;
   letter-spacing: -0.02em !important;
-}
-
-/* Slightly tighter uppercase for nav links */
-nav a {
-  font-size: 14px;
-  letter-spacing: -0.03em;
-}
-
-/* --- LISTING BANNER STYLES --- */
-.listing-banner {
-  font-family: 'Satoshi', sans-serif;
-  font-size: 14px;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  background-color: rgba(255, 76, 0, 0.1);
-  padding: 6px 12px;
-  border-radius: 6px;
-  color: white;
-}
-
-.listing-banner span.listing-label {
-  color: rgb(255, 76, 0);
-  text-transform: uppercase;
-  font-weight: 700;
-  margin-right: 6px;
-  letter-spacing: -0.02em;
-}
-
-.listing-banner span.listing-text {
-  color: #ffffff;
-  text-transform: none;
-  font-weight: 400;
 }
